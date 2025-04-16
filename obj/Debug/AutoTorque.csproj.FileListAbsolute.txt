@@ -1,0 +1,167 @@
+C:\Users\Miguel\Desktop\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\Miguel\Desktop\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\Unifafibe\Desktop\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\Unifafibe\Desktop\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\Unifafibe\Desktop\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\Unifafibe\Desktop\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmNotaFiscal.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizaçãoCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Documents\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmNotaFiscal.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizaçãoCliente.resources
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\Unifafibe\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmNotaFiscal.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.frmNotaFiscal.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\Miguel\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\pablo\OneDrive - Etec Centro Paula Souza\Desktop\AutoTorque\bin\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmCadastrar.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.frmPrincipal.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Properties.Resources.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroCliente.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroServico.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmCadastroVeiculo.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarFuncionario.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarServico.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarVeiculo.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.Views.frmVisualizarCliente.resources
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\obj\Debug\AutoTorque.pdb
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe.config
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\bin\Debug\AutoTorque.exe
+C:\Users\Miguel\Desktop\AutoTorque (1)\AutoTorque\AutoTorque\bin\Debug\AutoTorque.pdb
